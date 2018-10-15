@@ -1,0 +1,37 @@
+{
+  "name": "graphql-example",
+  "version": "0.0.1",
+  "description": "Example of GraphQL scaffolding",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vreality64/graphql-example.git"
+  },
+  "keywords": [
+    "graphql"
+  ],
+  "author": {
+    "name": "Ian Park",
+    "email": "vreality64@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vreality64/graphql-example/issues"
+  },
+  "homepage": "https://github.com/vreality64/graphql-example#readme",
+  "dependencies": {
+    "apollo-server-koa": "^2.1.0",
+    "graphql": "^14.0.2",
+    "koa": "^2.5.3",
+    "mongoose": "^5.3.3"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.11",
+    "merge-graphql-schemas": "^1.5.7",
+    "ts-node": "^7.0.1",
+    "typescript": "^3.1.3"
+  }
+}

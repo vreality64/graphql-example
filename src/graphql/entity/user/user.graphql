@@ -1,0 +1,15 @@
+enum UserType {
+  LINE
+}
+
+type User {
+  id: ID!
+  type: UserType
+  userName: String
+  profileImage: String
+}
+
+type Query {
+  user(id: ID!): User
+  users(limit: Int = 10, skip: Int): [User]
+}
