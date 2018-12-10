@@ -1,4 +1,6 @@
 # graphql-example
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvreality64%2Fgraphql-example.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvreality64%2Fgraphql-example?ref=badge_shield)
+
 simple graphql example
 
 ## Start Server
@@ -47,3 +49,6 @@ graphql/
 2. Focus on Graph Model
    - Data should be consumed by entity level
    - It means that normalizing data model is required.
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fvreality64%2Fgraphql-example.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fvreality64%2Fgraphql-example?ref=badge_large)
