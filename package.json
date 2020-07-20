@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/vreality64/graphql-example#readme",
   "dependencies": {
-    "apollo-server-koa": "^2.1.0",
+    "apollo-server-koa": "^2.14.2",
     "graphql": "^14.0.2",
     "koa": "^2.5.3",
     "mongoose": "^5.3.3"
